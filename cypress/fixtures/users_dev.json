@@ -1,0 +1,25 @@
+{
+  "Hilmi": {
+    "username": "admin",
+    "password": "admin",
+    "role" : "admin"
+  },
+  
+  "Fares": {
+    "username": "admin",
+    "password": "admin",
+    "role" : "ta7an"
+  },
+  
+  "Amine": {
+    "username": "admin",
+    "password": "admin",
+    "role" : ""
+  },
+  
+  "Wessim": {
+    "username": "admin",
+    "password": "admin",
+    "role" : ""
+  }
+}
